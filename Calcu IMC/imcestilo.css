@@ -1,0 +1,13 @@
+input{
+    display: block;
+    margin: 10px;
+}
+ #tarjeta{
+    background-color: rgb(0, 153, 255);
+    /* centrar */
+    width: 50%;
+    margin: auto;
+ }
+ body{
+    background-image: url(img/fondo_arg.jpg);background-repeat: no-repeat;background-repeat: no-repeat;background-attachment: fixed;background-position: center; 
+ }
